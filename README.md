@@ -1,2 +1,3 @@
-# .github
+# Sneaky Spy
+
 public organization profile
